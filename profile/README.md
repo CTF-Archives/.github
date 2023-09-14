@@ -11,3 +11,5 @@ An organization dedicated to the integration of tournament questions within main
 - 多平台齐发力
 - 打通知识共享链路、降低学习门槛
 - 提高用户学习感受、优化用户留存
+
+**有问题请开issue，好用请点star，有问题的话欢迎通过 [CTF-Archives售后快速服务群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=KFamhBpmURTZpndhc0MI7_1l3a6Xezrf&authKey=Yenwm7%2B%2F%2FT%2BtSXCSyr%2B7fYS47Ot0MwFqesH4HOLT8ZADE2e9XO6AS96HQvjxh%2B%2BG&noverify=0&group_code=894957229) 联系维护人员寻求帮助**
